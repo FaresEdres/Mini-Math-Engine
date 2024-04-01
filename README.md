@@ -1,5 +1,3 @@
-Here's a starting point for your README file using CMake and GTest for a Mini Math Engine with a test plan for comparison operations and simple calculations:
-
 ## Mini Math Engine
 
 This project implements a simple math engine capable of performing basic calculations and comparisons.
