@@ -1,0 +1,5 @@
+if(EXISTS "/home/fares/Desktop/Embedded Systems/UnitTest-and-CMake-main/unitTest/Mini  Math Engine/build/my_project[1]_tests.cmake")
+  include("/home/fares/Desktop/Embedded Systems/UnitTest-and-CMake-main/unitTest/Mini  Math Engine/build/my_project[1]_tests.cmake")
+else()
+  add_test(my_project_NOT_BUILT my_project_NOT_BUILT)
+endif()

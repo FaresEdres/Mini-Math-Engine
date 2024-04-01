@@ -1,0 +1,4 @@
+/home/fares/Desktop/Embedded Systems/UnitTest-and-CMake-main/unitTest/Mini  Math Engine/build/CMakeFiles/my_project.dir
+/home/fares/Desktop/Embedded Systems/UnitTest-and-CMake-main/unitTest/Mini  Math Engine/build/CMakeFiles/test.dir
+/home/fares/Desktop/Embedded Systems/UnitTest-and-CMake-main/unitTest/Mini  Math Engine/build/CMakeFiles/edit_cache.dir
+/home/fares/Desktop/Embedded Systems/UnitTest-and-CMake-main/unitTest/Mini  Math Engine/build/CMakeFiles/rebuild_cache.dir
