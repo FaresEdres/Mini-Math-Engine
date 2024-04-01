@@ -26,15 +26,17 @@ This will run the unit tests for the Mini Math Engine.
 
 ### Test Plan
 
-The [TestPlan](https://github.com/FaresEdres/Mini-Math-Engine/files/14822445/Untitled.document.1.pdf) focuses on verifying the functionality of the Mini Math Engine for:
+The [TestPlan](https://github.com/FaresEdres/Mini-Math-Engine/files/14822463/Untitled.document.2.pdf) focuses on verifying the functionality of the Mini Math Engine for:
 
 * **Comparison Operations:**
     * Test cases for `==`,  `<`, and `>`  with various input values.
 * **Simple Calculations:**
+
     * Test cases for addition, subtraction, multiplication, and division with various input values.
     * Test cases for edge cases like division by zero.
-![Screenshot 2024-04-01 121914](https://github.com/FaresEdres/Mini-Math-Engine/assets/88932198/b827eb76-7cd3-4e6c-8f34-2d8342dc25b8)
 
+
+![Screenshot 2024-04-01 122131](https://github.com/FaresEdres/Mini-Math-Engine/assets/88932198/c909b0e7-55dc-4eb3-ba02-a22735501d41)
 
 
 **Note:** You'll need to replace the generic test plan details with specific test cases you've implemented using gtest.
